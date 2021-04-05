@@ -1,11 +1,6 @@
 # SQL TIME!!
 A game made with HTML, CSS and JavaScript.
 Subjective Question game.
-
-# manmikalpha.github.io
-
-**SQL TIME !!**
-
 Educational Game
 
 **Introduction**
